@@ -37,6 +37,9 @@ links:
     url: http://vikingwarlock.github.io
     intro: "blog on github"
     icon: "fa fa-github"
+  - title: "Peng Zhihui's"
+    url: "http://pengzhihui.xyz"
+    icon: "fa fa-blog"
   # - title: "My LinkedIn"
   #   url: http://www.linkedin.com/in/xxx
   #   intro: "My Linkin account."
@@ -59,8 +62,8 @@ google_analytics:
   enable: false
   siteid: 
 baidu_tongji:
-  enable: false
-  siteid: 
+  enable: true
+  siteid: e7b30175bed2ad5160ee5a9e2fc67e23
 
 # search
 #swiftype_key: ZP2ZSuHgipSZfRyU8uTR
